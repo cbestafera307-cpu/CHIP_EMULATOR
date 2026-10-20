@@ -24,6 +24,11 @@ void chipemulator() {
     scanf(">%s", cmd);
   }
 if (strcmp("help") == 0) {
-    printf("[COMMAND 1]: lisense
-}    
+    printf("[COMMAND 1]: license");
+    printf("[COMMAND 2]: delete");
+    printf("[COMMAND 3]: create"):
+    printf("[COMMAND 4]: EmptyFile");
+}
+if
+
 }
