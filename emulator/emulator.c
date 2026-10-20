@@ -29,6 +29,8 @@ if (strcmp("help") == 0) {
     printf("[COMMAND 3]: create"):
     printf("[COMMAND 4]: EmptyFile");
 }
-if
+else if (strcmp("license") == 0) {
+    
+} 
 
 }
