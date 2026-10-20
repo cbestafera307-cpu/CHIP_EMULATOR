@@ -12,7 +12,7 @@
        +-------------------+
           |||||||||||||||
 */
-#define LISENCE 
+#define LICENSE 
 "                                 Apache License\n" 
 "                           Version 2.0, January 2004\n" 
 "                        http://www.apache.org/licenses/\n" 
@@ -68,7 +68,7 @@
 "      the copyright owner. For the purposes of this definition,\n" 
 "      "submitted" means any form of electronic, verbal, or written\n" 
 "      communication sent to the Licensor or its representatives, including\n" 
-"      but not limited to communication on electronic mailing lists, source\n" 
+"      but not limited to communICENSEn on electronic mailing lists, source\n" 
 "      code control systems, and issue tracking systems that are managed by,\n" 
 "      or on behalf of, the Licensor for the purpose of discussing and\n" 
 "      improving the Work, but excluding communication that is conspicuously\n" 
@@ -234,7 +234,7 @@ if (strcmp("help") == 0) {
     printf("[COMMAND 4]: EmptyFile");
 }
 else if (strcmp("license") == 0) {
-    printf(LISENCE);
+    printf(LICENSE);
 } 
 
 }
